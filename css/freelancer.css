@@ -85,7 +85,7 @@ header img {
 
 header .intro-text .name {
   display: block;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
   // text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
@@ -111,7 +111,7 @@ header .intro-text .skills {
   header .intro-text .punchline {
     font-size: 1.65em;
     font-weight: 100;
-    font-family: Helvetica;
+    font-family: 'Noticia Text', serif;
   }
 }
 .navbar-custom {
